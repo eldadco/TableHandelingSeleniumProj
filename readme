@@ -1,0 +1,7 @@
+The source root is Tesnetproj dir
+
+---
+
+Insert parameters via the resources/Inputs.xml file
+
+Run the resources/SeleniumSuite.xml file

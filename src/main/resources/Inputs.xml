@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<customers>
+    <test id="1">
+        <searchColumn>Company</searchColumn>
+        <searchText>Ernst Handel</searchText>
+        <returnColumnText>Country</returnColumnText>
+        <expectedText>Austria</expectedText>
+        <testType>Positive</testType>
+    </test>
+    <test id="2">
+        <searchColumn>Country</searchColumn>
+        <searchText>UK</searchText>
+        <returnColumnText>Contact</returnColumnText>
+        <expectedText>Helen Bennett</expectedText>
+        <testType>Positive</testType>
+    </test>
+
+</customers>
