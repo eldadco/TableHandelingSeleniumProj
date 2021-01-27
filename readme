@@ -5,3 +5,4 @@ The source root is TableHandelingSeleniumProj dir
 Insert parameters via the resources/Inputs.xml file
 
 Run the resources/SeleniumSuite.xml file
+ Execute in terminal - "allure serve" for opening the allure report
